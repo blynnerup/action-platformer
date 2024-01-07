@@ -122,7 +122,9 @@
 				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/BP_Captain.uasset",
 				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Shark/BP_Shark.uasset",
 				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/BP_ActionChar.uasset",
-				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/GM_Action.uasset"
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/GM_Action.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Input/Actions/IA_Move.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Input/IMC_Action.uasset"
 			]
 		}
 	]
