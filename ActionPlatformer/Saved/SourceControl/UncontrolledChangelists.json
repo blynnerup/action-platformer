@@ -124,7 +124,15 @@
 				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/BP_ActionChar.uasset",
 				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/GM_Action.uasset",
 				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Input/Actions/IA_Move.uasset",
-				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Input/IMC_Action.uasset"
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Input/IMC_Action.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Idle.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Run.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/JumpRise.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Fall.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Attack.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Throw.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/AS_Captain.uasset",
+				"D:/Source/Unreal Games/Action Platformer/ActionPlatformer/Content/Blueprints/Characters/Captain/ABP_Captain.uasset"
 			]
 		}
 	]
